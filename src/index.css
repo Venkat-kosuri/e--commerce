@@ -1,0 +1,82 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .nav-link.active {
+    color: #fff !important;
+    font-family: 'Open Sans', sans-serif;
+  
+}
+.sign {
+    color: #fff;
+    text-decoration: none;
+}
+.sign:hover {
+    color: #FFB740 !important;
+}
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .nav-link{
+    color: #fff !important;
+   
+}
+.navbar-toggler {
+    background-color: white !important;
+}
+
+.wrapper {
+    padding: 50px 50px;
+}
+
+.hero {
+    padding: 50px 50px;
+    
+}
+
+.card {
+    width: 200px;
+    height: 300px;
+    margin-top: 10px;
+}
+
+.card a { 
+    margin-top: 20px;
+}
+
+.card img { 
+    width: 100px;
+    padding-left: 10px;
+}
+
+.footer{
+    padding-top: 50px;
+    padding-bottom: 40px;
+    background-color: #232F3E;
+    
+}
+
+.footer ul li a {
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+ul li {
+    list-style-type: none;
+    padding: 2px;
+    font-size: 1rem;
+}
+.footer strong {
+    color: #fff;
+}
+.footer span {
+    color:#E8505B;
+}
+
+.cart-icon {
+   color: #FFB740;
+    width:55px;
+    height:30px;
+}
+       
